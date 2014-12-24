@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   spec.homepage = 'https://github.com/cocodelabs/NSAttributedString-CCLFormat'
   spec.authors = { 'Kyle Fuller' => 'inbox@kylefuller.co.uk' }
   spec.social_media_url = 'https://twitter.com/kylefuller'
-  spec.source = { :git => 'https://github.com/cocodelabs/NSAttributedString-CCLFormat.git', :tag => spec.version.to_s }
+  spec.source = { :git => 'https://github.com/Igor-Palaguta/NSAttributedString-CCLFormat.git', :tag => spec.version.to_s }
 
   spec.requires_arc = true
 
